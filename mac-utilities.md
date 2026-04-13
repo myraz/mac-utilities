@@ -1,0 +1,96 @@
+# ⚙️ Mac Utility Apps
+
+> My curated toolkit — apps and tools I install on every Mac.  
+> Last updated: <!-- DATE -->
+
+---
+
+## Table of Contents
+
+- [System & Productivity](#system--productivity)
+- [Developer Tools](#developer-tools)
+- [Networking & Security](#networking--security)
+- [Media & Files](#media--files)
+- [Menubar & Tweaks](#menubar--tweaks)
+
+---
+
+## System & Productivity
+
+### App Name
+| | |
+|---|---|
+| **Source** | [Website](https://example.com) |
+| **Install** | `brew install --cask appname` |
+| **Notes** | How I use it / key settings / license info |
+
+---
+
+## Developer Tools
+
+### App Name
+| | |
+|---|---|
+| **Source** | [Website](https://example.com) |
+| **Install** | `brew install appname` |
+| **Notes** | How I use it / key settings / license info |
+
+---
+
+## Networking & Security
+
+### App Name
+| | |
+|---|---|
+| **Source** | [Website](https://example.com) |
+| **Install** | `brew install --cask appname` |
+| **Notes** | How I use it / key settings / license info |
+
+---
+
+## Media & Files
+
+### App Name
+| | |
+|---|---|
+| **Source** | [Website](https://example.com) |
+| **Install** | [Mac App Store](https://apps.apple.com) |
+| **Notes** | How I use it / key settings / license info |
+
+---
+
+## Menubar & Tweaks
+
+### App Name
+| | |
+|---|---|
+| **Source** | [Website](https://example.com) |
+| **Install** | `brew install --cask appname` |
+| **Notes** | How I use it / key settings / license info |
+
+---
+
+## Quick Install (Homebrew Bundle)
+
+> Copy this to a `Brewfile` and run `brew bundle` to install everything at once.
+
+```ruby
+# System & Productivity
+cask "appname"
+
+# Developer Tools
+brew "appname"
+
+# Networking & Security
+cask "appname"
+
+# Media & Files
+cask "appname"
+
+# Menubar & Tweaks
+cask "appname"
+```
+
+---
+
+*Maintained by [your name](https://github.com/yourusername)*
