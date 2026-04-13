@@ -1,7 +1,7 @@
 # ⚙️ Mac Utility Apps
 
 > My curated toolkit — apps and tools I install on every Mac.  
-> Last updated: <!-- DATE -->
+> Last updated: <2026-04-13>
 
 ---
 
@@ -17,12 +17,12 @@
 
 ## System & Productivity
 
-### App Name
+### Dock Door
 | | |
 |---|---|
-| **Source** | [Website](https://example.com) |
-| **Install** | `brew install --cask appname` |
-| **Notes** | How I use it / key settings / license info |
+| **Source** | [Website](https://dockdoor.net/) |
+| **Install** | `brew install --cask dockdoor` |
+| **Notes** | Great alt-tab management |
 
 ---
 
