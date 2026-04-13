@@ -24,16 +24,23 @@
 | **Install** | `brew install --cask dockdoor` |
 | **Notes** | Great alt-tab management |
 
----
-
-## Developer Tools
-
 ### Flux Markdown
 | | |
 |---|---|
 | **Source** | [GitHub](https://github.com/xykong/flux-markdown) |
 | **Install** | `brew install --cask xykong/tap/flux-markdown` |
 | **Notes** | QuickLook extension for Markdown files in Finder — supports Mermaid, KaTeX, GitHub Flavored Markdown, syntax highlighting |
+
+---
+
+## Developer Tools
+
+### App Name
+| | |
+|---|---|
+| **Source** | [Website](https://example.com) |
+| **Install** | `brew install appname` |
+| **Notes** | How I use it / key settings / license info |
 
 ---
 
@@ -77,9 +84,9 @@
 ```ruby
 # System & Productivity
 cask "appname"
+cask "xykong/tap/flux-markdown"
 
 # Developer Tools
-cask "xykong/tap/flux-markdown"
 
 # Networking & Security
 cask "appname"
