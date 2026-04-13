@@ -100,4 +100,4 @@ cask "appname"
 
 ---
 
-*Maintained by [your name](https://github.com/yourusername)*
+*Maintained by [mewraz](https://github.com/yourusername)*
