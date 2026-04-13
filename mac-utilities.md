@@ -28,12 +28,12 @@
 
 ## Developer Tools
 
-### App Name
+### Flux Markdown
 | | |
 |---|---|
-| **Source** | [Website](https://example.com) |
-| **Install** | `brew install appname` |
-| **Notes** | How I use it / key settings / license info |
+| **Source** | [GitHub](https://github.com/xykong/flux-markdown) |
+| **Install** | `brew install --cask xykong/tap/flux-markdown` |
+| **Notes** | QuickLook extension for Markdown files in Finder — supports Mermaid, KaTeX, GitHub Flavored Markdown, syntax highlighting |
 
 ---
 
@@ -79,7 +79,7 @@
 cask "appname"
 
 # Developer Tools
-brew "appname"
+cask "xykong/tap/flux-markdown"
 
 # Networking & Security
 cask "appname"
